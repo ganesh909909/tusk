@@ -1,0 +1,49 @@
+# n=[1,2,3,4]
+# n.append(5)
+# print(n)
+# p=[9,8,78,67,65]
+# p[len(p):]=[7]
+# print(p)
+# j=[34,67,45,89,0,23]
+# j.append([78,54,90])
+# print(j)
+# j=[34,67,45,89,0,23]
+# j.append((78,54,90))
+# print(j)
+# m=[67,98,78,54,87]
+# m.append(90)
+# m.append(7)
+# m.append(8)
+# print(m)
+# h=[90,56,67,12,1,43,54]
+# k=[98,87,9,87,65,54]
+# for t in k:
+#     h.append(t)
+# print(h)
+# extend methods
+# num=[90,87,65,45,54]
+# new=[65,89,12,21]
+# num.extend(new)
+# print(num)
+# num=[90,87,65,45,54]
+# new=(65,89,12,21)
+# num.extend(new)
+# print(num)
+# num=[90,87,65,45,54]
+# new={65,89,12,21}
+# num.extend(new)
+# print(num)
+# j=["r","u","t","n"]
+# l="hello,world"
+# j.extend(l)
+# print(j)
+# j=["r","u","t","n"]
+# n={"j":8,"k":7,"h":65}
+# j.extend(n)
+# print(j)
+# j=["r","u","t","n"]
+# n={"j":8,"k":7,"h":65}
+# j[len(j):]=n
+# print(j)
+
+
